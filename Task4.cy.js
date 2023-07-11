@@ -1,4 +1,11 @@
-// Task 4
+// Short bullet points on testing strategy
+// ---------------------------------------
+// 1. Get all 8 divs and iterate over them
+// 2. If anyone of them contains "spider-man",
+//    create a css selector with the index to get
+//    the name which is in the third <td>
+//    that is why I used nth-child(3)
+
 describe('Test Suite Name', function(){
     it('Test 4: Dynamic table', function(){
         // Launch the webpage
