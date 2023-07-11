@@ -1,3 +1,11 @@
+// Short bullet points on testing strategy
+// ---------------------------------------
+// 1. click the dropdown
+// 2. then hit "settings" menu
+// 3. capture sub-menu items, then iterate over each of them
+//    match them with expected texts. The expected texts are
+//    stored in an array
+
 describe('Test Suite Name', function(){
     it('Test 3: Multi-level-dropdown', function(){
         // Launch the webpage
