@@ -1,5 +1,11 @@
 // Short bullet points on testing strategy
 // ---------------------------------------
+// 1. get first iframe
+// 2. go inside its body
+// 3. get second iframe
+// 4. go inside the body
+// 5. click the button
+// 6. assert the message displayed
 describe("Test Suite Name", ()=> {
   it("Test 5: iFrames", ()=> {
     // Launch the webpage
