@@ -1,2 +1,2 @@
-# Cypress
-Tasks performed for VetDrive's evualution
+# Readme
+Tasks are available at https://qaplayground.dev/
